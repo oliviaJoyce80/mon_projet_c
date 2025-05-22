@@ -1,5 +1,5 @@
 #include "module2.h"
 
-int carre(int x) {
+int carree(int x) {
     return x * x;
 }
