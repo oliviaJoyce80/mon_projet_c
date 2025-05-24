@@ -2,5 +2,6 @@
 #define MODULE1_H
 
 void hello();
+void goodbye();
 
 #endif
